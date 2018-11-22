@@ -15,7 +15,7 @@
    viewBox="0 0 1000 1000"
    id="svg4333"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    style="enable-background:new"
    enable-background="new"
    sodipodi:docname="sun envisioned.svg">
@@ -104,19 +104,23 @@
     <sodipodi:guide
        position="0,369.23077"
        orientation="525.87463,0"
-       id="guide8996" />
+       id="guide8996"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0.062718765,0.062622071"
        orientation="0,374.87454"
-       id="guide8998" />
+       id="guide8998"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="500,500.00001"
        orientation="-525.87463,0"
-       id="guide9000" />
+       id="guide9000"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="500,500.00001"
        orientation="0,-374.87454"
-       id="guide9002" />
+       id="guide9002"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata4338">
@@ -126,7 +130,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -338,22 +342,24 @@
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-2.2070312"
        y="915.67969"
-       id="text10676"
-       sodipodi:linespacing="125%"><tspan
+       id="text10676"><tspan
          sodipodi:role="line"
          id="tspan10698"
          x="-2.2070312"
-         y="915.67969">divide the radius to 20 rings.</tspan><tspan
+         y="915.67969"
+         style="font-size:40px;line-height:1.25">divide the radius to 20 rings.</tspan><tspan
          sodipodi:role="line"
          id="tspan10700"
          x="-2.2070312"
-         y="965.67969">use 12 outbound rings</tspan><tspan
+         y="965.67969"
+         style="font-size:40px;line-height:1.25">use 12 outbound rings</tspan><tspan
          sodipodi:role="line"
          id="tspan10702"
          x="-2.2070312"
-         y="1015.6797">leaving centre unused</tspan></text>
+         y="1015.6797"
+         style="font-size:40px;line-height:1.25">leaving centre unused</tspan></text>
   </g>
 </svg>
