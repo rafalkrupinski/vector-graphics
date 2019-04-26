@@ -16,3 +16,8 @@ Sun Envisioned
 ---
 
 ![Sun Envisioned](./sun/sun%20envisioned.svg)
+
+Sunrise
+---
+
+![Sunrise](./sunrise/sunrise.svg)
