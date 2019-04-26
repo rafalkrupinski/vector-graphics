@@ -16,3 +16,8 @@ Sun Envisioned
 ---
 
 ![Sun Envisioned](./sun/sun%20envisioned.svg)
+
+Know Thyself
+---
+
+![Know Thyself](./know%20thyself/know%20thyself.svg)
