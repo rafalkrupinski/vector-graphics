@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg861"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="parking-arrow-left.svg">
+  <defs
+     id="defs855" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-145.3927"
+     inkscape:cy="446.97167"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-center="true"
+     inkscape:measure-start="-38.5714,195.714"
+     inkscape:measure-end="72.8571,-1.42857"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="105,0"
+       orientation="1,0"
+       id="guide1419"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,192"
+       orientation="0,1"
+       id="guide1452"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,53.5"
+       orientation="0,1"
+       id="guide1372"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata858">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#003399;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.18824501;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1406"
+       width="170"
+       height="170"
+       x="20"
+       y="20" />
+    <g
+       aria-label="P"
+       transform="matrix(1.1108437,0,0,0.90277225,-114.1534,-94.8535)"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:192.00117493px;line-height:125%;font-family:Drogowskaz;-inkscape-font-specification:'Drogowskaz, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot1421">
+      <path
+         d="m 220.08568,233.37761 c 13.20008,-9.00005 22.20014,-24.30014 22.20014,-42.00025 0,-17.40011 -9.00006,-32.7002 -22.20014,-42.00026 h -67.80041 v 144.00088 h 24.00014 v -60.00037 z m -8.70005,-24.00014 h -35.10022 v -35.70022 h 35.10022 c 4.20002,4.50003 6.90004,10.80006 6.90004,17.70011 0,7.20004 -2.70002,13.50008 -6.90004,18.00011 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:192.00117493px;font-family:Drogowskaz;-inkscape-font-specification:'Drogowskaz, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         id="path35" />
+    </g>
+    <g
+       transform="matrix(1.0625,0,0,1.0625,250.39167,-126.85558)"
+       id="layer1-4"
+       inkscape:label="Layer 1" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M 57.1875,219.59375 20,243.5 57.1875,267.40625 V 256.25 H 190 V 230.74999 H 57.1875 v -11.15624"
+       style="fill:#000004;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1015623"
+       id="path856"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+</svg>
